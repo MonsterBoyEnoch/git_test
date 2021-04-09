@@ -1,0 +1,1 @@
+This is Enoch's first Git project!
